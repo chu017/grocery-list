@@ -1,0 +1,13 @@
+
+/*
+GET Statement
+
+POST Statement
+
+UPDATE Statement
+UPDATE t1 SET col1 = col1 + 1 WHERE id = 1;
+
+DELETE Statement
+
+
+*/

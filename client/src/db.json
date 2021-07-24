@@ -1,0 +1,29 @@
+{
+  "groceries": [
+    {
+      "id": 1,
+      "item": "apples",
+      "quantity": "1"
+    },
+    {
+      "id": 2,
+      "item": "bananas",
+      "quantity": "2"
+    },
+    {
+      "item": "pear",
+      "quantity": "5000",
+      "id": 3
+    },
+    {
+      "item": "apple",
+      "quantity": "1",
+      "id": 4
+    },
+    {
+      "item": "pear",
+      "quantity": "100",
+      "id": 5
+    }
+  ]
+}
